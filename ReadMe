@@ -1,1 +1,8 @@
+This is an assignment: Solving real world image classification problem
 
+The car manufacturing company that I work for is looking to launch a self-driving car. 
+The cars will have a sophisticated computer vision system that can identify different objects on the road. 
+It should be able to identify the different cars on the road while maintaining a distance behind the cars. 
+For safety, break when the object is not a car. As a data scientist I have been allocated an image classification task. 
+Image classification is the starting point, and the process will advance to object detection as phase two. 
+Training such a system requires a diverse huge data set.
